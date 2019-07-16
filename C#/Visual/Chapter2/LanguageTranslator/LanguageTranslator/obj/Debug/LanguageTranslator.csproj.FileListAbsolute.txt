@@ -1,0 +1,10 @@
+C:\Users\noonz\Desktop\code\C#\Chapter2\LanguageTranslator\LanguageTranslator\bin\Debug\LanguageTranslator.exe.config
+C:\Users\noonz\Desktop\code\C#\Chapter2\LanguageTranslator\LanguageTranslator\bin\Debug\LanguageTranslator.exe
+C:\Users\noonz\Desktop\code\C#\Chapter2\LanguageTranslator\LanguageTranslator\bin\Debug\LanguageTranslator.pdb
+C:\Users\noonz\Desktop\code\C#\Chapter2\LanguageTranslator\LanguageTranslator\obj\Debug\LanguageTranslator.csprojAssemblyReference.cache
+C:\Users\noonz\Desktop\code\C#\Chapter2\LanguageTranslator\LanguageTranslator\obj\Debug\LanguageTranslator.languageTranslator.resources
+C:\Users\noonz\Desktop\code\C#\Chapter2\LanguageTranslator\LanguageTranslator\obj\Debug\LanguageTranslator.Properties.Resources.resources
+C:\Users\noonz\Desktop\code\C#\Chapter2\LanguageTranslator\LanguageTranslator\obj\Debug\LanguageTranslator.csproj.GenerateResource.cache
+C:\Users\noonz\Desktop\code\C#\Chapter2\LanguageTranslator\LanguageTranslator\obj\Debug\LanguageTranslator.csproj.CoreCompileInputs.cache
+C:\Users\noonz\Desktop\code\C#\Chapter2\LanguageTranslator\LanguageTranslator\obj\Debug\LanguageTranslator.exe
+C:\Users\noonz\Desktop\code\C#\Chapter2\LanguageTranslator\LanguageTranslator\obj\Debug\LanguageTranslator.pdb

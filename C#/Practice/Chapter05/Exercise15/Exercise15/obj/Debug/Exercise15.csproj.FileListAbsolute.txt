@@ -1,0 +1,7 @@
+C:\Users\noonz\Desktop\code\C#\Chapter 5\Exercise15\Exercise15\bin\Debug\Exercise15.exe.config
+C:\Users\noonz\Desktop\code\C#\Chapter 5\Exercise15\Exercise15\bin\Debug\Exercise15.exe
+C:\Users\noonz\Desktop\code\C#\Chapter 5\Exercise15\Exercise15\bin\Debug\Exercise15.pdb
+C:\Users\noonz\Desktop\code\C#\Chapter 5\Exercise15\Exercise15\obj\Debug\Exercise15.csprojAssemblyReference.cache
+C:\Users\noonz\Desktop\code\C#\Chapter 5\Exercise15\Exercise15\obj\Debug\Exercise15.csproj.CoreCompileInputs.cache
+C:\Users\noonz\Desktop\code\C#\Chapter 5\Exercise15\Exercise15\obj\Debug\Exercise15.exe
+C:\Users\noonz\Desktop\code\C#\Chapter 5\Exercise15\Exercise15\obj\Debug\Exercise15.pdb

@@ -1,0 +1,14 @@
+{
+  "ProjectFilePath": "c:\\Users\\noonz\\Desktop\\code\\C#\\Chapter 2\\Exercise1\\Exercise2\\Exercise2.csproj",
+  "TargetFramework": "v4.6.1",
+  "TagHelpers": [],
+  "Configuration": {
+    "ConfigurationName": "UnsupportedRazor",
+    "LanguageVersion": "1.0",
+    "Extensions": [
+      {
+        "ExtensionName": "UnsupportedRazorExtension"
+      }
+    ]
+  }
+}

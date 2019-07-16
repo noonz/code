@@ -1,0 +1,7 @@
+C:\Users\noonz\Desktop\code\C#\Intro\WhileIteration\WhileIteration\bin\Debug\WhileIteration.exe.config
+C:\Users\noonz\Desktop\code\C#\Intro\WhileIteration\WhileIteration\bin\Debug\WhileIteration.exe
+C:\Users\noonz\Desktop\code\C#\Intro\WhileIteration\WhileIteration\bin\Debug\WhileIteration.pdb
+C:\Users\noonz\Desktop\code\C#\Intro\WhileIteration\WhileIteration\obj\Debug\WhileIteration.csprojAssemblyReference.cache
+C:\Users\noonz\Desktop\code\C#\Intro\WhileIteration\WhileIteration\obj\Debug\WhileIteration.csproj.CoreCompileInputs.cache
+C:\Users\noonz\Desktop\code\C#\Intro\WhileIteration\WhileIteration\obj\Debug\WhileIteration.exe
+C:\Users\noonz\Desktop\code\C#\Intro\WhileIteration\WhileIteration\obj\Debug\WhileIteration.pdb

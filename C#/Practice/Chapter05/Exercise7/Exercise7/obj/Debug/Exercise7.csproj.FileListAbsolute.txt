@@ -1,0 +1,14 @@
+C:\Users\noonz\Desktop\code\C#\Chapter 5\Exercise7\Exercise7\bin\Debug\Exercise7.exe.config
+C:\Users\noonz\Desktop\code\C#\Chapter 5\Exercise7\Exercise7\bin\Debug\Exercise7.exe
+C:\Users\noonz\Desktop\code\C#\Chapter 5\Exercise7\Exercise7\bin\Debug\Exercise7.pdb
+C:\Users\noonz\Desktop\code\C#\Chapter 5\Exercise7\Exercise7\obj\Debug\Exercise7.csprojAssemblyReference.cache
+C:\Users\noonz\Desktop\code\C#\Chapter 5\Exercise7\Exercise7\obj\Debug\Exercise7.csproj.CoreCompileInputs.cache
+C:\Users\noonz\Desktop\code\C#\Chapter 5\Exercise7\Exercise7\obj\Debug\Exercise7.exe
+C:\Users\noonz\Desktop\code\C#\Chapter 5\Exercise7\Exercise7\obj\Debug\Exercise7.pdb
+C:\Users\noonz\Desktop\code\C#\Practice\Chapter_05\Exercise7\Exercise7\bin\Debug\Exercise7.exe.config
+C:\Users\noonz\Desktop\code\C#\Practice\Chapter_05\Exercise7\Exercise7\bin\Debug\Exercise7.exe
+C:\Users\noonz\Desktop\code\C#\Practice\Chapter_05\Exercise7\Exercise7\bin\Debug\Exercise7.pdb
+C:\Users\noonz\Desktop\code\C#\Practice\Chapter_05\Exercise7\Exercise7\obj\Debug\Exercise7.csprojAssemblyReference.cache
+C:\Users\noonz\Desktop\code\C#\Practice\Chapter_05\Exercise7\Exercise7\obj\Debug\Exercise7.csproj.CoreCompileInputs.cache
+C:\Users\noonz\Desktop\code\C#\Practice\Chapter_05\Exercise7\Exercise7\obj\Debug\Exercise7.exe
+C:\Users\noonz\Desktop\code\C#\Practice\Chapter_05\Exercise7\Exercise7\obj\Debug\Exercise7.pdb

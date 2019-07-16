@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.168
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Change Counter Application", "Change Counter Application\Change Counter Application.csproj", "{7BDB8F66-0EFE-4C8C-9F65-72893687C2E8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7BDB8F66-0EFE-4C8C-9F65-72893687C2E8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7BDB8F66-0EFE-4C8C-9F65-72893687C2E8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7BDB8F66-0EFE-4C8C-9F65-72893687C2E8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7BDB8F66-0EFE-4C8C-9F65-72893687C2E8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {68ED8E3F-C031-4394-84E5-F680168CC89F}
+	EndGlobalSection
+EndGlobal

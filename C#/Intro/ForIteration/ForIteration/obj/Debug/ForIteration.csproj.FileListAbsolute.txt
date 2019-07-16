@@ -1,0 +1,7 @@
+C:\Users\noonz\Desktop\code\C#\Intro\ForIteration\ForIteration\bin\Debug\ForIteration.exe.config
+C:\Users\noonz\Desktop\code\C#\Intro\ForIteration\ForIteration\bin\Debug\ForIteration.exe
+C:\Users\noonz\Desktop\code\C#\Intro\ForIteration\ForIteration\bin\Debug\ForIteration.pdb
+C:\Users\noonz\Desktop\code\C#\Intro\ForIteration\ForIteration\obj\Debug\ForIteration.csprojAssemblyReference.cache
+C:\Users\noonz\Desktop\code\C#\Intro\ForIteration\ForIteration\obj\Debug\ForIteration.csproj.CoreCompileInputs.cache
+C:\Users\noonz\Desktop\code\C#\Intro\ForIteration\ForIteration\obj\Debug\ForIteration.exe
+C:\Users\noonz\Desktop\code\C#\Intro\ForIteration\ForIteration\obj\Debug\ForIteration.pdb

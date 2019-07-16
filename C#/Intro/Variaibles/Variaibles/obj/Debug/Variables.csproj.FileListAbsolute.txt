@@ -1,0 +1,7 @@
+C:\Users\noonz\Desktop\code\C#\Intro\Variaibles\Variaibles\bin\Debug\Variaibles.exe.config
+C:\Users\noonz\Desktop\code\C#\Intro\Variaibles\Variaibles\bin\Debug\Variaibles.exe
+C:\Users\noonz\Desktop\code\C#\Intro\Variaibles\Variaibles\bin\Debug\Variaibles.pdb
+C:\Users\noonz\Desktop\code\C#\Intro\Variaibles\Variaibles\obj\Debug\Variables.csprojAssemblyReference.cache
+C:\Users\noonz\Desktop\code\C#\Intro\Variaibles\Variaibles\obj\Debug\Variables.csproj.CoreCompileInputs.cache
+C:\Users\noonz\Desktop\code\C#\Intro\Variaibles\Variaibles\obj\Debug\Variaibles.exe
+C:\Users\noonz\Desktop\code\C#\Intro\Variaibles\Variaibles\obj\Debug\Variaibles.pdb

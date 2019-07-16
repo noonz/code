@@ -1,0 +1,17 @@
+# dotfiles
+.vscode
+
+# Misc
+
+# Python
+/Python/.vscode
+/Python/Misc
+/Python/Python-Crash-Course/Classes
+/Python/Python-Crash-Course/Projects/first_game/.vscode
+/Python/Automate-The-Boring-Stuff
+
+# C#
+
+# Java
+
+# SQL

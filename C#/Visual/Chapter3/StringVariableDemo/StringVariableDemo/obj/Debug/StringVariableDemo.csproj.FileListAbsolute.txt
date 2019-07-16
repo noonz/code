@@ -1,0 +1,10 @@
+C:\Users\noonz\Desktop\code\C#\Visual\Chapter3\StringVariableDemo\StringVariableDemo\bin\Debug\StringVariableDemo.exe.config
+C:\Users\noonz\Desktop\code\C#\Visual\Chapter3\StringVariableDemo\StringVariableDemo\bin\Debug\StringVariableDemo.exe
+C:\Users\noonz\Desktop\code\C#\Visual\Chapter3\StringVariableDemo\StringVariableDemo\bin\Debug\StringVariableDemo.pdb
+C:\Users\noonz\Desktop\code\C#\Visual\Chapter3\StringVariableDemo\StringVariableDemo\obj\Debug\StringVariableDemo.csprojAssemblyReference.cache
+C:\Users\noonz\Desktop\code\C#\Visual\Chapter3\StringVariableDemo\StringVariableDemo\obj\Debug\StringVariableDemo.Form1.resources
+C:\Users\noonz\Desktop\code\C#\Visual\Chapter3\StringVariableDemo\StringVariableDemo\obj\Debug\StringVariableDemo.Properties.Resources.resources
+C:\Users\noonz\Desktop\code\C#\Visual\Chapter3\StringVariableDemo\StringVariableDemo\obj\Debug\StringVariableDemo.csproj.GenerateResource.cache
+C:\Users\noonz\Desktop\code\C#\Visual\Chapter3\StringVariableDemo\StringVariableDemo\obj\Debug\StringVariableDemo.csproj.CoreCompileInputs.cache
+C:\Users\noonz\Desktop\code\C#\Visual\Chapter3\StringVariableDemo\StringVariableDemo\obj\Debug\StringVariableDemo.exe
+C:\Users\noonz\Desktop\code\C#\Visual\Chapter3\StringVariableDemo\StringVariableDemo\obj\Debug\StringVariableDemo.pdb

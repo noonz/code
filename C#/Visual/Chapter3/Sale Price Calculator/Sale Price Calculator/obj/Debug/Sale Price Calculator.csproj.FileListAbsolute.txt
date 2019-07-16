@@ -1,0 +1,9 @@
+C:\Users\noonz\Desktop\code\C#\Visual\Chapter3\Sale Price Calculator\Sale Price Calculator\bin\Debug\Sale Price Calculator.exe.config
+C:\Users\noonz\Desktop\code\C#\Visual\Chapter3\Sale Price Calculator\Sale Price Calculator\bin\Debug\Sale Price Calculator.exe
+C:\Users\noonz\Desktop\code\C#\Visual\Chapter3\Sale Price Calculator\Sale Price Calculator\bin\Debug\Sale Price Calculator.pdb
+C:\Users\noonz\Desktop\code\C#\Visual\Chapter3\Sale Price Calculator\Sale Price Calculator\obj\Debug\Sale_Price_Calculator.Form1.resources
+C:\Users\noonz\Desktop\code\C#\Visual\Chapter3\Sale Price Calculator\Sale Price Calculator\obj\Debug\Sale_Price_Calculator.Properties.Resources.resources
+C:\Users\noonz\Desktop\code\C#\Visual\Chapter3\Sale Price Calculator\Sale Price Calculator\obj\Debug\Sale Price Calculator.csproj.GenerateResource.cache
+C:\Users\noonz\Desktop\code\C#\Visual\Chapter3\Sale Price Calculator\Sale Price Calculator\obj\Debug\Sale Price Calculator.csproj.CoreCompileInputs.cache
+C:\Users\noonz\Desktop\code\C#\Visual\Chapter3\Sale Price Calculator\Sale Price Calculator\obj\Debug\Sale Price Calculator.exe
+C:\Users\noonz\Desktop\code\C#\Visual\Chapter3\Sale Price Calculator\Sale Price Calculator\obj\Debug\Sale Price Calculator.pdb

@@ -1,0 +1,10 @@
+C:\Users\noonz\Desktop\code\C#\Chapter3\TextBox Demo\TextBox Demo\bin\Debug\TextBox Demo.exe.config
+C:\Users\noonz\Desktop\code\C#\Chapter3\TextBox Demo\TextBox Demo\bin\Debug\TextBox Demo.exe
+C:\Users\noonz\Desktop\code\C#\Chapter3\TextBox Demo\TextBox Demo\bin\Debug\TextBox Demo.pdb
+C:\Users\noonz\Desktop\code\C#\Chapter3\TextBox Demo\TextBox Demo\obj\Debug\TextBox Demo.csprojAssemblyReference.cache
+C:\Users\noonz\Desktop\code\C#\Chapter3\TextBox Demo\TextBox Demo\obj\Debug\TextBox_Demo.Form1.resources
+C:\Users\noonz\Desktop\code\C#\Chapter3\TextBox Demo\TextBox Demo\obj\Debug\TextBox_Demo.Properties.Resources.resources
+C:\Users\noonz\Desktop\code\C#\Chapter3\TextBox Demo\TextBox Demo\obj\Debug\TextBox Demo.csproj.GenerateResource.cache
+C:\Users\noonz\Desktop\code\C#\Chapter3\TextBox Demo\TextBox Demo\obj\Debug\TextBox Demo.csproj.CoreCompileInputs.cache
+C:\Users\noonz\Desktop\code\C#\Chapter3\TextBox Demo\TextBox Demo\obj\Debug\TextBox Demo.exe
+C:\Users\noonz\Desktop\code\C#\Chapter3\TextBox Demo\TextBox Demo\obj\Debug\TextBox Demo.pdb

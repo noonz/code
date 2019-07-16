@@ -1,0 +1,10 @@
+C:\Users\noonz\Desktop\code\C#\Visual\Chapter3\Program Exercises\TipTaxTotal\TipTaxTotal\bin\Debug\TipTaxTotal.exe.config
+C:\Users\noonz\Desktop\code\C#\Visual\Chapter3\Program Exercises\TipTaxTotal\TipTaxTotal\bin\Debug\TipTaxTotal.exe
+C:\Users\noonz\Desktop\code\C#\Visual\Chapter3\Program Exercises\TipTaxTotal\TipTaxTotal\bin\Debug\TipTaxTotal.pdb
+C:\Users\noonz\Desktop\code\C#\Visual\Chapter3\Program Exercises\TipTaxTotal\TipTaxTotal\obj\Debug\TipTaxTotal.csprojAssemblyReference.cache
+C:\Users\noonz\Desktop\code\C#\Visual\Chapter3\Program Exercises\TipTaxTotal\TipTaxTotal\obj\Debug\TipTaxTotal.Form1.resources
+C:\Users\noonz\Desktop\code\C#\Visual\Chapter3\Program Exercises\TipTaxTotal\TipTaxTotal\obj\Debug\TipTaxTotal.Properties.Resources.resources
+C:\Users\noonz\Desktop\code\C#\Visual\Chapter3\Program Exercises\TipTaxTotal\TipTaxTotal\obj\Debug\TipTaxTotal.csproj.GenerateResource.cache
+C:\Users\noonz\Desktop\code\C#\Visual\Chapter3\Program Exercises\TipTaxTotal\TipTaxTotal\obj\Debug\TipTaxTotal.csproj.CoreCompileInputs.cache
+C:\Users\noonz\Desktop\code\C#\Visual\Chapter3\Program Exercises\TipTaxTotal\TipTaxTotal\obj\Debug\TipTaxTotal.exe
+C:\Users\noonz\Desktop\code\C#\Visual\Chapter3\Program Exercises\TipTaxTotal\TipTaxTotal\obj\Debug\TipTaxTotal.pdb

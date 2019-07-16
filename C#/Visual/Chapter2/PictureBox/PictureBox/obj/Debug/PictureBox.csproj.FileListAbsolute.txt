@@ -1,0 +1,9 @@
+C:\Users\noonz\Desktop\code\C#\Chapter2\PictureBox\PictureBox\bin\Debug\PictureBox.exe.config
+C:\Users\noonz\Desktop\code\C#\Chapter2\PictureBox\PictureBox\bin\Debug\PictureBox.exe
+C:\Users\noonz\Desktop\code\C#\Chapter2\PictureBox\PictureBox\bin\Debug\PictureBox.pdb
+C:\Users\noonz\Desktop\code\C#\Chapter2\PictureBox\PictureBox\obj\Debug\PictureBox.Form1.resources
+C:\Users\noonz\Desktop\code\C#\Chapter2\PictureBox\PictureBox\obj\Debug\PictureBox.Properties.Resources.resources
+C:\Users\noonz\Desktop\code\C#\Chapter2\PictureBox\PictureBox\obj\Debug\PictureBox.csproj.GenerateResource.cache
+C:\Users\noonz\Desktop\code\C#\Chapter2\PictureBox\PictureBox\obj\Debug\PictureBox.csproj.CoreCompileInputs.cache
+C:\Users\noonz\Desktop\code\C#\Chapter2\PictureBox\PictureBox\obj\Debug\PictureBox.exe
+C:\Users\noonz\Desktop\code\C#\Chapter2\PictureBox\PictureBox\obj\Debug\PictureBox.pdb

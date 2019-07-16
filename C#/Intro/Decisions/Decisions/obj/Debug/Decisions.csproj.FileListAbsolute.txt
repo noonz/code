@@ -1,0 +1,7 @@
+C:\Users\noonz\Desktop\code\C#\Intro\Decisions\Decisions\bin\Debug\Decisions.exe.config
+C:\Users\noonz\Desktop\code\C#\Intro\Decisions\Decisions\bin\Debug\Decisions.exe
+C:\Users\noonz\Desktop\code\C#\Intro\Decisions\Decisions\bin\Debug\Decisions.pdb
+C:\Users\noonz\Desktop\code\C#\Intro\Decisions\Decisions\obj\Debug\Decisions.csproj.CoreCompileInputs.cache
+C:\Users\noonz\Desktop\code\C#\Intro\Decisions\Decisions\obj\Debug\Decisions.exe
+C:\Users\noonz\Desktop\code\C#\Intro\Decisions\Decisions\obj\Debug\Decisions.pdb
+C:\Users\noonz\Desktop\code\C#\Intro\Decisions\Decisions\obj\Debug\Decisions.csprojAssemblyReference.cache

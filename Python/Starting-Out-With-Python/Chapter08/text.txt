@@ -1,0 +1,5 @@
+This is the first sentence of this text file
+Here is sentence number 2 for the text file
+I have added another line here for sentence number 3
+After this I will add 1 more sentence to the file to read
+And here is the last sentence that I will write for the file

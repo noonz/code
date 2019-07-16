@@ -1,0 +1,9 @@
+C:\Users\noonz\Desktop\code\C#\Visual\Chapter3\Change Counter Application\Change Counter Application\bin\Debug\Change Counter Application.exe.config
+C:\Users\noonz\Desktop\code\C#\Visual\Chapter3\Change Counter Application\Change Counter Application\bin\Debug\Change Counter Application.exe
+C:\Users\noonz\Desktop\code\C#\Visual\Chapter3\Change Counter Application\Change Counter Application\bin\Debug\Change Counter Application.pdb
+C:\Users\noonz\Desktop\code\C#\Visual\Chapter3\Change Counter Application\Change Counter Application\obj\Debug\Change_Counter_Application.Form1.resources
+C:\Users\noonz\Desktop\code\C#\Visual\Chapter3\Change Counter Application\Change Counter Application\obj\Debug\Change_Counter_Application.Properties.Resources.resources
+C:\Users\noonz\Desktop\code\C#\Visual\Chapter3\Change Counter Application\Change Counter Application\obj\Debug\Change Counter Application.csproj.GenerateResource.cache
+C:\Users\noonz\Desktop\code\C#\Visual\Chapter3\Change Counter Application\Change Counter Application\obj\Debug\Change Counter Application.csproj.CoreCompileInputs.cache
+C:\Users\noonz\Desktop\code\C#\Visual\Chapter3\Change Counter Application\Change Counter Application\obj\Debug\Change Counter Application.exe
+C:\Users\noonz\Desktop\code\C#\Visual\Chapter3\Change Counter Application\Change Counter Application\obj\Debug\Change Counter Application.pdb

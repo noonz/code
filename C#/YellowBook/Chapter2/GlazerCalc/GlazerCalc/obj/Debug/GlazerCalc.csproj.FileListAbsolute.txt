@@ -1,0 +1,7 @@
+C:\Users\noonz\Desktop\code\C#\YellowBook\Chapter2\GlazerCalc\GlazerCalc\bin\Debug\GlazerCalc.exe.config
+C:\Users\noonz\Desktop\code\C#\YellowBook\Chapter2\GlazerCalc\GlazerCalc\bin\Debug\GlazerCalc.exe
+C:\Users\noonz\Desktop\code\C#\YellowBook\Chapter2\GlazerCalc\GlazerCalc\bin\Debug\GlazerCalc.pdb
+C:\Users\noonz\Desktop\code\C#\YellowBook\Chapter2\GlazerCalc\GlazerCalc\obj\Debug\GlazerCalc.csprojAssemblyReference.cache
+C:\Users\noonz\Desktop\code\C#\YellowBook\Chapter2\GlazerCalc\GlazerCalc\obj\Debug\GlazerCalc.csproj.CoreCompileInputs.cache
+C:\Users\noonz\Desktop\code\C#\YellowBook\Chapter2\GlazerCalc\GlazerCalc\obj\Debug\GlazerCalc.exe
+C:\Users\noonz\Desktop\code\C#\YellowBook\Chapter2\GlazerCalc\GlazerCalc\obj\Debug\GlazerCalc.pdb

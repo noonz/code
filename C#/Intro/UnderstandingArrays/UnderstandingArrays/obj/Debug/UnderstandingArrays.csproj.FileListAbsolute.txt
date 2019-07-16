@@ -1,0 +1,7 @@
+C:\Users\noonz\Desktop\code\C#\Intro\UnderstandingArrays\UnderstandingArrays\bin\Debug\UnderstandingArrays.exe.config
+C:\Users\noonz\Desktop\code\C#\Intro\UnderstandingArrays\UnderstandingArrays\bin\Debug\UnderstandingArrays.exe
+C:\Users\noonz\Desktop\code\C#\Intro\UnderstandingArrays\UnderstandingArrays\bin\Debug\UnderstandingArrays.pdb
+C:\Users\noonz\Desktop\code\C#\Intro\UnderstandingArrays\UnderstandingArrays\obj\Debug\UnderstandingArrays.csprojAssemblyReference.cache
+C:\Users\noonz\Desktop\code\C#\Intro\UnderstandingArrays\UnderstandingArrays\obj\Debug\UnderstandingArrays.csproj.CoreCompileInputs.cache
+C:\Users\noonz\Desktop\code\C#\Intro\UnderstandingArrays\UnderstandingArrays\obj\Debug\UnderstandingArrays.exe
+C:\Users\noonz\Desktop\code\C#\Intro\UnderstandingArrays\UnderstandingArrays\obj\Debug\UnderstandingArrays.pdb

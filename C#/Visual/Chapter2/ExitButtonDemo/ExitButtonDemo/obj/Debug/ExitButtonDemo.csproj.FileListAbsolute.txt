@@ -1,0 +1,9 @@
+C:\Users\noonz\Desktop\code\C#\Chapter2\ExitButtonDemo\ExitButtonDemo\bin\Debug\ExitButtonDemo.exe.config
+C:\Users\noonz\Desktop\code\C#\Chapter2\ExitButtonDemo\ExitButtonDemo\bin\Debug\ExitButtonDemo.exe
+C:\Users\noonz\Desktop\code\C#\Chapter2\ExitButtonDemo\ExitButtonDemo\bin\Debug\ExitButtonDemo.pdb
+C:\Users\noonz\Desktop\code\C#\Chapter2\ExitButtonDemo\ExitButtonDemo\obj\Debug\ExitButtonDemo.exitButtonDemo.resources
+C:\Users\noonz\Desktop\code\C#\Chapter2\ExitButtonDemo\ExitButtonDemo\obj\Debug\ExitButtonDemo.Properties.Resources.resources
+C:\Users\noonz\Desktop\code\C#\Chapter2\ExitButtonDemo\ExitButtonDemo\obj\Debug\ExitButtonDemo.csproj.GenerateResource.cache
+C:\Users\noonz\Desktop\code\C#\Chapter2\ExitButtonDemo\ExitButtonDemo\obj\Debug\ExitButtonDemo.csproj.CoreCompileInputs.cache
+C:\Users\noonz\Desktop\code\C#\Chapter2\ExitButtonDemo\ExitButtonDemo\obj\Debug\ExitButtonDemo.exe
+C:\Users\noonz\Desktop\code\C#\Chapter2\ExitButtonDemo\ExitButtonDemo\obj\Debug\ExitButtonDemo.pdb

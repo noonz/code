@@ -1,0 +1,10 @@
+C:\Users\noonz\Desktop\code\C#\Visual\Chapter3\Field Demo\Field Demo\bin\Debug\Field Demo.exe.config
+C:\Users\noonz\Desktop\code\C#\Visual\Chapter3\Field Demo\Field Demo\bin\Debug\Field Demo.exe
+C:\Users\noonz\Desktop\code\C#\Visual\Chapter3\Field Demo\Field Demo\bin\Debug\Field Demo.pdb
+C:\Users\noonz\Desktop\code\C#\Visual\Chapter3\Field Demo\Field Demo\obj\Debug\Field Demo.csprojAssemblyReference.cache
+C:\Users\noonz\Desktop\code\C#\Visual\Chapter3\Field Demo\Field Demo\obj\Debug\Field_Demo.Form1.resources
+C:\Users\noonz\Desktop\code\C#\Visual\Chapter3\Field Demo\Field Demo\obj\Debug\Field_Demo.Properties.Resources.resources
+C:\Users\noonz\Desktop\code\C#\Visual\Chapter3\Field Demo\Field Demo\obj\Debug\Field Demo.csproj.GenerateResource.cache
+C:\Users\noonz\Desktop\code\C#\Visual\Chapter3\Field Demo\Field Demo\obj\Debug\Field Demo.csproj.CoreCompileInputs.cache
+C:\Users\noonz\Desktop\code\C#\Visual\Chapter3\Field Demo\Field Demo\obj\Debug\Field Demo.exe
+C:\Users\noonz\Desktop\code\C#\Visual\Chapter3\Field Demo\Field Demo\obj\Debug\Field Demo.pdb

@@ -1,0 +1,9 @@
+C:\Users\noonz\Desktop\code\C#\Chapter2\Programming Exercises\Exercise1\Exercise1\bin\Debug\Exercise1.exe.config
+C:\Users\noonz\Desktop\code\C#\Chapter2\Programming Exercises\Exercise1\Exercise1\bin\Debug\Exercise1.exe
+C:\Users\noonz\Desktop\code\C#\Chapter2\Programming Exercises\Exercise1\Exercise1\bin\Debug\Exercise1.pdb
+C:\Users\noonz\Desktop\code\C#\Chapter2\Programming Exercises\Exercise1\Exercise1\obj\Debug\Exercise1.latinTranslator.resources
+C:\Users\noonz\Desktop\code\C#\Chapter2\Programming Exercises\Exercise1\Exercise1\obj\Debug\Exercise1.Properties.Resources.resources
+C:\Users\noonz\Desktop\code\C#\Chapter2\Programming Exercises\Exercise1\Exercise1\obj\Debug\Exercise1.csproj.GenerateResource.cache
+C:\Users\noonz\Desktop\code\C#\Chapter2\Programming Exercises\Exercise1\Exercise1\obj\Debug\Exercise1.csproj.CoreCompileInputs.cache
+C:\Users\noonz\Desktop\code\C#\Chapter2\Programming Exercises\Exercise1\Exercise1\obj\Debug\Exercise1.exe
+C:\Users\noonz\Desktop\code\C#\Chapter2\Programming Exercises\Exercise1\Exercise1\obj\Debug\Exercise1.pdb
