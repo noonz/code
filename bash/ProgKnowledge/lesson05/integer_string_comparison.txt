@@ -1,0 +1,25 @@
+integer comparison
+
+if [ "$a" -eq "$b" ]
+-eq - is equal to
+-ne - is not equal to
+-gt - is greater than
+-ge - is greater than or equal to
+-lt - is less than
+-le - is less than or equal to
+
+if (("$a" < "$b"))
+< - is less than
+<= - is less than or equal to
+> - s greater than
+>= is greater than or equal to
+
+string comparison
+
+if [ "$a" = "$b" ]
+= - is equal to
+== - is equal to
+!= - is not equal to
+< - is less than, in ASCII alphabetical order [[]]
+> - is greater than, in ASCII alphabetical order [[]]
+-z - string is null, that is, has zero length
