@@ -1,0 +1,4 @@
+display a menu that lets the user select an option, 
+1) convert celcius to fahrenheit
+2) fahrenheit to celcius
+3) display a table of each measurement conversion from 0-100 degrees celcius

@@ -4,14 +4,13 @@ from pygame.sprite import Sprite
 
 
 class Minion(Sprite, ws_game):
-    """Class for minion"""
+    """Class for TriHard's"""
 
     def __init__(self):
         super().__init__()
         self.screen = WSUP.game_screen
 
-        # Select image and and set the rect
-        # This uses rel filepath
+        # Select TriHard image and and set the rect
         self.image = pygame.image.load('images/trihard.png')
         self.rect = self.image.get_rect()
 

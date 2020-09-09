@@ -16,7 +16,7 @@ class WSUP:
         self.settings = Settings()
         self.screen = pygame.display.set_mode(
             (self.settings.screen_width, self.settings.screen_height))
-        pygame.display.set_caption("WSUP")
+        pygame.display.set_caption("White Surpremist")
 
         # Dude settings
         self.dude = Dude(self)
