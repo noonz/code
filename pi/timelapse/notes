@@ -1,0 +1,5 @@
+# Convert h264 video to mp4
+MP4Box -add <source video.h264> <dest video.mp4>
+
+# Convert timelapse photos to video
+

@@ -1,0 +1,39 @@
+# create group
+groupadd <groupname>
+
+# create user
+useradd -c 'full name' -e 2017-10-31 -G group1,group2 -d /home/mydir/user1/ -m user1
+
+# change permissions
+chmod ### <directory>
+
+# change ownerships
+chown <user>:<group> <directory>
+
+# use find command
+find <directory> -name 'string' -exec cp {} <dest> \;
+
+# use grep command
+grep <options> 'string'
+
+# create tar and zip
+tar -czvf <filename> <source directory>
+
+# partition disks
+gdisk /dev/sda
+
+# create physical volume
+pvcreate /dev/sdb1 
+
+# create volume group
+vgcreate <volgroupname> /dev/sdb1 /dev/sdc1
+
+# create logical volumes
+lvcreate --name <name> --size <size> <volgroup>
+
+# to remove volumes, do it in opposite order
+
+# formatting and mounting
+mfks -t ext4 /dev/cetyvolgroup/lv_linuxuser
+mkdir /home/linuxuser/lvol
+mount -t ext4 /dev/cetyvolgroup/lv_linuxuser /home/linuxuser/lvol
