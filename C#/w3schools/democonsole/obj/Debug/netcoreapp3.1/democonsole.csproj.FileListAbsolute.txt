@@ -1,0 +1,12 @@
+/Users/davenoonz/git/learning/C#/w3schools/democonsole/bin/Debug/netcoreapp3.1/democonsole.deps.json
+/Users/davenoonz/git/learning/C#/w3schools/democonsole/bin/Debug/netcoreapp3.1/democonsole.runtimeconfig.json
+/Users/davenoonz/git/learning/C#/w3schools/democonsole/bin/Debug/netcoreapp3.1/democonsole.runtimeconfig.dev.json
+/Users/davenoonz/git/learning/C#/w3schools/democonsole/bin/Debug/netcoreapp3.1/democonsole.dll
+/Users/davenoonz/git/learning/C#/w3schools/democonsole/bin/Debug/netcoreapp3.1/democonsole.pdb
+/Users/davenoonz/git/learning/C#/w3schools/democonsole/obj/Debug/netcoreapp3.1/democonsole.csprojAssemblyReference.cache
+/Users/davenoonz/git/learning/C#/w3schools/democonsole/obj/Debug/netcoreapp3.1/democonsole.AssemblyInfoInputs.cache
+/Users/davenoonz/git/learning/C#/w3schools/democonsole/obj/Debug/netcoreapp3.1/democonsole.AssemblyInfo.cs
+/Users/davenoonz/git/learning/C#/w3schools/democonsole/obj/Debug/netcoreapp3.1/democonsole.csproj.CoreCompileInputs.cache
+/Users/davenoonz/git/learning/C#/w3schools/democonsole/obj/Debug/netcoreapp3.1/democonsole.dll
+/Users/davenoonz/git/learning/C#/w3schools/democonsole/obj/Debug/netcoreapp3.1/democonsole.pdb
+/Users/davenoonz/git/learning/C#/w3schools/democonsole/obj/Debug/netcoreapp3.1/democonsole.genruntimeconfig.cache

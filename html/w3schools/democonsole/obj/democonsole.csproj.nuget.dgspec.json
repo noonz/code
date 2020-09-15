@@ -1,0 +1,58 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/davenoonz/git/learning/html/w3schools/democonsole/democonsole.csproj": {}
+  },
+  "projects": {
+    "/Users/davenoonz/git/learning/html/w3schools/democonsole/democonsole.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/davenoonz/git/learning/html/w3schools/democonsole/democonsole.csproj",
+        "projectName": "democonsole",
+        "projectPath": "/Users/davenoonz/git/learning/html/w3schools/democonsole/democonsole.csproj",
+        "packagesPath": "/Users/davenoonz/.nuget/packages/",
+        "outputPath": "/Users/davenoonz/git/learning/html/w3schools/democonsole/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/davenoonz/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/3.1.402/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
