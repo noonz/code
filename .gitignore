@@ -1,5 +1,6 @@
 # dotfiles
 .vscode
+.DS_Store
 
 # Misc
 
@@ -13,5 +14,6 @@
 # C#
 
 # Java
+*.class
 
 # SQL
