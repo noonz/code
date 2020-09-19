@@ -9,9 +9,41 @@ import Foundation
 
 // Variables
 var intNumber = Int()
+var myName = "Dave"
+var varA: Float
+var myBool = true
 var randNumbers = [Int]() // create an array of integers
 
 // if, else if
+var grade: Int = 90
+var gradeLetter: Character
+if grade >= 90 {
+    gradeLetter = "A"
+} else if grade >= 80 {
+    gradeLetter = "B"
+} else if grade >= 70 {
+    gradeLetter = "C"
+} else if grade >= 60 {
+    gradeLetter = "D"
+} else {
+    gradeLetter = "F"
+}
+
+// Switch statement
+switch gradeLetter {
+case "A":
+    print("You got an A!")
+case "B":
+    print("You got a B!")
+case "C":
+    print("You got a C.")
+case "D":
+    print("You got a D.")
+case "F":
+    print("You failed.")
+default:
+    print("Unknown grade")
+}
 
 // For-in loop
 for _ in 1 ..< 3 {
@@ -29,20 +61,14 @@ for num in randNumbers {
     }
 }
 
-print(max)
+// repeat while loop
+var varC = 10
+repeat {
+    print("repeat while loop")
+    varC += 1
+} while varC < 12
 
-// Switch statement
-var temp = 0
-switch temp {
-case ...(-30):
-    print("Super cold")
-case -29 ... 0:
-    print("Cold")
-case 0...:
-    print("Warm")
-default:
-    print("Temp unknown")
-}
+print(max)
 
 // Functions
 
