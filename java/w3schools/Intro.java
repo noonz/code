@@ -99,7 +99,13 @@ public class Intro {
                 System.out.println(myNumbers[i][j]);
             }
         }
-
+        String a = "my message";
+        System.out.print((int) (a.charAt(1)));
+        char b = (char) (a.charAt(1) + 1);
+        String newString = "";
+        newString += b;
+        System.out.print(b);
+        System.out.print(newString);
         keyb.close();
     }
 }
