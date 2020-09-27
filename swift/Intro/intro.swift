@@ -70,10 +70,56 @@ repeat {
 
 print(max)
 
-// Functions
+/* Functions
+ func functionName (nameForType: Type, otherType: Type) -> ReturnType {
+     //body of the function
+ }
+ */
+// alternate argument labels
+func sayHello(to person: String, and anotherPerson: String) {
+    print("Hello \(person) and \(anotherPerson)")
+}
+
+// omit one argument label and return 2 types
+func add(_ firstNumber: Int, to secondNumber: Int) -> Int {
+    return firstNumber + secondNumber
+}
+
+// add default parameter values
+func display(teamName: String, score: Int = 0) {
+    print("\(teamName): \(score)")
+}
 
 func greet(person: String) {
     print("Hello \(person)")
 }
 
-greet(person: "Dave")
+/* Structures
+ struct Name {
+     var name: String
+ }
+ */
+
+struct StepCounter {
+    var totalSteps: Int = 0 {
+        willSet {
+            print("About to set totalSteps to \(newValue)")
+        }
+        didSet {
+            if totalSteps > oldValue {
+                print("Added \(totalSteps - oldValue) steps")
+            }
+        }
+    }
+}
+
+var stepCounter = StepCounter()
+stepCounter.totalSteps = 40
+stepCounter.totalSteps = 100
+
+// Type methods
+struct Temperaure {
+    static var boilingPoint = 100
+}
+
+let boilingPoint = Temperaure.boilingPoint
