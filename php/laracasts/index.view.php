@@ -14,13 +14,11 @@
 
     </head>
     <body>
-
-        <header>
-
-            <h1>
-                <?= $greeting; ?>
-            </h1>
-        </header>
+        <ul>
+            <?php foreach ($person as $feature => $val) : ?>
+                <li><strong><?= $feature ?></strong> <?= $val ?></li>
+            <?php endforeach; ?>
+        </ul>
 
     </body>
 </html>
