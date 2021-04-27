@@ -30,8 +30,10 @@ class DogService {
             // collect data from URL
             guard let data = data else { return }
   
+            print(data)
             if let result = try?
                 decoder.decode(Dog.self, from: data) {
+                print(result)
                 completion([result])
             }
         }.resume()
