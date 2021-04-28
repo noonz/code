@@ -4,21 +4,39 @@
         <meta charset="utf-8">
         <title>Document</title>
 
-        <style>
-            header {
-                background: #e3e3e3;
-                padding: 2em;
-                text-align: center;
-            }
-        </style>
-
     </head>
     <body>
+
+        <!-- <h1>Task for the Day</h1>
+
         <ul>
-            <?php foreach ($person as $feature => $val) : ?>
-                <li><strong><?= $feature ?></strong> <?= $val ?></li>
-            <?php endforeach; ?>
-        </ul>
+
+            <li>
+                <strong>Name: </strong> <?= $task['title']; ?>
+            </li>
+            <li>
+                <strong>Due: </strong> <?= $task['due']; ?>
+            </li>
+            <li>
+                <strong>Person: </strong> <?= $task['assigned_to']; ?>
+            </li>
+            <li>
+                <strong>Status: </strong>
+                <?php if ($task['completed']) : ?>
+                    <span>&#9989</span>
+
+                <?php endif; ?>
+
+                <?php if ($task['completed']){
+                    echo "&#9989";
+                } else {
+                    echo "Incompleted";
+                }?>
+            </li>
+        </ul> -->
+
+
+        
 
     </body>
 </html>

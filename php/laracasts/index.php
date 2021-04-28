@@ -1,13 +1,21 @@
 <?php
 
-$person = [
-    'age' => 30,
-    'hair' => 'brown',
-    'career' => 'software developer'
-];
+require 'functions.php';
 
-$person['name'] = 'Dave';
+// $task = [
+//     'title' => 'Finish Homework',
+//     'due' => 'today',
+//     'assigned_to' => 'Dave',
+//     'completed' => true
+// ];
 
-die(var_dump($person));
+// $animals = ['dog','cat','horse','lion'];
+// dd($animals);
+
+if (checkAge(21)){
+    echo "Access";
+} else {
+    echo "Denied";
+}
 
 require 'index.view.php';
